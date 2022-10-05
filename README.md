@@ -1,4 +1,4 @@
-<h1> Blogging Application <h1>
+### Blogging Application
 
 A medium-like blogging application. 
 
